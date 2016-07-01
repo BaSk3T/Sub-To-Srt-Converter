@@ -1,0 +1,14 @@
+﻿  Source.c
+c:\users\bask3t\documents\visual studio 2015\projects\subtosrt\subtosrt\source.c(54): warning C4013: 'strtok' undefined; assuming extern returning int
+c:\users\bask3t\documents\visual studio 2015\projects\subtosrt\subtosrt\source.c(60): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\bask3t\documents\visual studio 2015\projects\subtosrt\subtosrt\source.c(60): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+c:\users\bask3t\documents\visual studio 2015\projects\subtosrt\subtosrt\source.c(69): warning C4013: 'atoi' undefined; assuming extern returning int
+c:\users\bask3t\documents\visual studio 2015\projects\subtosrt\subtosrt\source.c(75): warning C4013: 'memset' undefined; assuming extern returning int
+c:\users\bask3t\documents\visual studio 2015\projects\subtosrt\subtosrt\source.c(76): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\bask3t\documents\visual studio 2015\projects\subtosrt\subtosrt\source.c(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\bask3t\documents\visual studio 2015\projects\subtosrt\subtosrt\source.c(57): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\bask3t\documents\visual studio 2015\projects\subtosrt\subtosrt\source.c(62): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  SubToSrt.vcxproj -> C:\Users\BaSk3T\documents\visual studio 2015\Projects\SubToSrt\Debug\SubToSrt.exe
